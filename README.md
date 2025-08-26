@@ -1,10 +1,10 @@
 Student Management System
 Hey everyone! Meet the Student Management System (SMS)—a handy Java app I, Mohammad Arfat Karim from CST-5 at Daffodil Institute of IT, whipped up to make managing student records a breeze. Built with Java Swing, it’s got a slick GUI and some neat features to keep things organized. Hope you like it!
 
-🌟 What’s This All About?
+What’s This All About?
 This little project is all about helping schools or colleges (like my own Daffodil Institute) keep track of student info easily. You can add, update, or remove records, sort them by name, and even get some smart validation to avoid mistakes. Plus, it’s got a fresh look with cool colors and a smooth feel—pretty proud of how it turned out!
 
-🚀 Cool Stuff It Can Do
+Cool Stuff It Can Do
 Add a Student: Pop in all the details—name, roll, ID, email, you name it—and save it.
 Update a Student: Tweak any record whenever you need to.
 Remove a Student: Delete with a quick “are you sure?” check so you don’t mess up by accident.
@@ -13,7 +13,7 @@ Sort by Name: Line up the list alphabetically—super handy!
 Smart Checks: Makes sure everything’s filled, CGPA’s between 0.0-4.0, emails look legit, fees are positive, and no duplicate rolls or IDs.
 Quick Updates: See what’s happening with little status pop-ups that fade away after 4 seconds.
 My Links: Click to check out my GitHub, LinkedIn, or portfolio if you’re curious!
-🎉 Getting Started
+Getting Started
 What You Need
 Java: Grab JDK 17 or newer (OpenJDK works great).
 Any IDE like VS Code, IntelliJ, or Eclipse will do.
